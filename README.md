@@ -1,4 +1,4 @@
-###Kolejka Fifo
+#Kolejka Fifo
 
 Poniżej prezentuje wywołanie projekt kolejki fifo 
 
